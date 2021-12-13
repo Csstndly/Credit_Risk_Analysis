@@ -8,11 +8,11 @@ The purpose of this analysis is to use the different types of machine learning m
 
 ### Oversampling
 	
-	*Naïve
+* Naïve
 	
 	The results from this model show an accuracy of 64%. With precision 	rates for high and low risk at 1% and 100%. The recall for high and 	low risk at 62% and 65%.
 
-	*SMOTE
+* SMOTE
 	The results from this model show an accuracy of 63%. With precision 	rates for high and low risk at 1% and 100%. The recall for high and 	low risk at 62% and 64%.
 
 
