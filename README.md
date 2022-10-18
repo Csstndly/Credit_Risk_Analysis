@@ -42,7 +42,7 @@ The results from this model also shows an accuracy of 78%. With precision rates 
 
 ## Summary
 
-The accuracy scores in this circumstance aren’t the best indicator have a great machine learning model as 90% of the data set could’ve been low risk and if the machine predicted all to be low risk, then it would’ve only missed 10% yielding good accuracy scores. 
+The accuracy scores in this circumstance aren’t the best indicator for having a great machine learning model as 90% of the data set could’ve been low risk and if the machine predicted all to be low risk, then it would’ve only missed 10% yielding good accuracy scores. 
 
 Looking over the precision to see how the models fare in identifying between the two classifications. It seems none of the models are spectacular. However, the majority of the models do have a significantly lower precision rate for predicting high risk than low risk. As for the recall numbers the models were able to identify high risk better than low risk. 
 
